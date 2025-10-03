@@ -1,0 +1,5 @@
+C:\Users\Admin\GitHub\EventTicketManagementSystem\EventManager\EventManager\obj\Debug\EventManager.csproj.AssemblyReference.cache
+C:\Users\Admin\GitHub\EventTicketManagementSystem\EventManager\EventManager\obj\Debug\Form1.resources
+C:\Users\Admin\GitHub\EventTicketManagementSystem\EventManager\EventManager\obj\Debug\EventManager.Properties.Resources.resources
+C:\Users\Admin\GitHub\EventTicketManagementSystem\EventManager\EventManager\obj\Debug\EventManager.csproj.GenerateResource.cache
+C:\Users\Admin\GitHub\EventTicketManagementSystem\EventManager\EventManager\obj\Debug\EventManager.csproj.CoreCompileInputs.cache
